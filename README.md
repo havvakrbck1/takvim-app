@@ -1,37 +1,21 @@
-#  Takvim App
+```markdown
+# Calendar App
 
-Bu proje, kullanıcıların etkinliklerini ve hatırlatıcılarını takip etmelerini sağlayan basit bir takvim uygulamasıdır. Kullanıcılar, kişisel takvimlerinde etkinlikler ve görevler oluşturabilirler.
+A web application to manage events and schedules.
 
-##  Özellikler
-- Etkinlik ekleme ve hatırlatıcılar oluşturma.
-- Günlük, haftalık, aylık görünümde takvim görüntüleme.
-- Basit ve kullanıcı dostu bir arayüz.
+## Features
+- Event creation
+- Monthly and weekly views
+- Notifications
 
-##  Kullanılan Teknolojiler
-- Python
-- Tkinter (GUI için)
+## Technologies Used
+- JavaScript
+- HTML
+- CSS
 
-##  Kurulum
+## Installation
 
-1. Projeyi klonlayın:
-
-    ```bash
-    git clone https://github.com/havvakrbck1/takvim-app.git
-    cd takvim-app
-    ```
-
-2. Gerekli Python kütüphanelerini yükleyin:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Uygulamayı başlatın:
-
-    ```bash
-    python takvim.py
-    ```
-
-##  Katkı
-Yeni özellikler veya takvim entegrasyonları eklemek mümkündür.
-
+```bash
+git clone https://github.com/havvakrbck1/calendar-app.git
+cd calendar-app
+open index.html
